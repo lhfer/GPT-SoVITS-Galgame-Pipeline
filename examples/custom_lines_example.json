@@ -1,0 +1,20 @@
+{
+  "description": "自定义台词示例 — Custom Lines Example",
+  "lines": [
+    {
+      "id": "custom_01_greeting",
+      "emotion": "日常",
+      "text": "你好呀，今天也要加油哦！"
+    },
+    {
+      "id": "custom_02_excited",
+      "emotion": "兴奋",
+      "text": "太棒了！我们成功了！我就知道一定可以的！"
+    },
+    {
+      "id": "custom_03_sad",
+      "emotion": "悲伤",
+      "text": "对不起……都是我的错。如果当时我能更勇敢一点就好了。"
+    }
+  ]
+}

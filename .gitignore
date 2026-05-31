@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Project outputs
+output/
+*.wav
+*.mp3
+*.flac
+*.json
+!scripts/default_lines.json
+!examples/*.json
+
+# Training artifacts
+logs/
+TEMP/
+*.pth
+*.ckpt
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
