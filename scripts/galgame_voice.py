@@ -27,7 +27,6 @@ import time
 # ─── Constants ───────────────────────────────────────────────────────────────
 
 COMMON_GPTSOVITS_PATHS = [
-    r"D:\Antigravity\GPT-SoVITS-v4-20250529",
     r"D:\GPT-SoVITS",
     r"D:\GPT-SoVITS-v4",
     r"C:\GPT-SoVITS",
